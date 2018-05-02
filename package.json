@@ -1,0 +1,19 @@
+{
+  "name": "nodejscrudapi1",
+  "version": "1.0.0",
+  "description": "\"Aplicação CRUD API com Express e NodeJs\",",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtonielMM/nodejscrudapi1.git"
+  },
+  "author": "Otoniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtonielMM/nodejscrudapi1/issues"
+  },
+  "homepage": "https://github.com/OtonielMM/nodejscrudapi1#readme"
+}
